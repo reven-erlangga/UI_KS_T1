@@ -56,6 +56,7 @@ def crypt():
             'status': '200',
             'msg': 'Success creating a new book!👍😀'
         })
+    
     elif method == 'aes':
         data.append({
             'title': 'Initialize',
