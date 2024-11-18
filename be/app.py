@@ -355,3 +355,4 @@ def gen_fernet_key(passcode:bytes) -> bytes:
 
 if __name__ == '__main__':
     app.run(debug=True)
+#test
