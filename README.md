@@ -24,8 +24,10 @@
 
 - [Preview](#preview)
 - [Technologies](#technologies)
-  - [Backend](#backend)
+- [Installation](#installation)
   - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Note](#note)
 - [Tutorial](#tutorial)
 
 ## Preview
@@ -60,6 +62,32 @@
   - JavaScript (js) and TypeScript (ts)
   - Vue.js
   - Daisy UI
+
+## Installation
+
+### Frontend
+
+1. Please install yarn as a package manager for vue, you can visit [here](https://classic.yarnpkg.com/lang/en/docs/install/) if you doesn't have yarn.
+
+2. After that install the module with command ``` yarn ``` to install all node package module.
+
+3. If you see the console, you will be see system running. So, fe already running on your machine.
+
+4. To make all function working we must be running BE.
+
+### Backend
+
+1. Go to folder be.
+
+2. Running command ``` .venv\Scripts\activate ``` if you using windows. Another machine ? [click here](https://flask.palletsprojects.com/en/stable/installation/).
+
+3. Running ```flask run```
+
+### Note
+
+- For BE url in FE still manual, not make global variable.
+
+- Download document url in BE still manual not automatically.
 
 ## Tutorial
 
