@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=H:\Kuliah\Unsia\Semester 1\Kriptografi dan Steganografi\Tugas\Tugas 1 - Kelompok\Project\be\.venv
+set VIRTUAL_ENV=C:\Users\BMG-11\Documents\Sedryiqbal\Kuliah\Kriptografi\Tugas\UI_KS_T1\be\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
